@@ -5,6 +5,9 @@ footer {
   align-items: center;
   gap: 5px;
 }
+footer {
+  padding: 10px;
+}
 
 .key-row {
   display: flex;
@@ -22,6 +25,7 @@ footer {
   background-color: #d3d6da;
   border-radius: 4px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .key-column_wide {
@@ -32,6 +36,9 @@ footer {
   height: 55px;
   background-color: #d3d6da;
   border-radius: 4px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
 }
 
 .back-icon {

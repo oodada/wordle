@@ -5,6 +5,7 @@ header {
   margin: 10px;
   font-size: 30px;
   font-weight: bold;
+  border-bottom: 1px solid #d3d6da;
 }
 
 .menu img {
